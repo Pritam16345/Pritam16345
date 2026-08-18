@@ -2,9 +2,9 @@
 
 # Pritam Kundu
 
-**ML Engineer · Full-Stack Developer · AI Systems Builder**
+**ML Engineer · Software Developer · AI Systems and Backend**
 
-*B.Tech CSE @ KIIT University · CGPA 9.18/10 · Batch 2023–2027*
+*B.Tech CSE @ KIIT University · CGPA 9.27/10 · Batch 2023–2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritamkundu3745)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://pritam-portfolio-puce.vercel.app)
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I build production-grade AI systems and full-stack applications — not just side projects, but things that are actually deployed and used. Currently in my final year at KIIT, I've shipped two end-to-end platforms using RAG pipelines, FastAPI, Docker, and Next.js, and presented AI research at an international peer-reviewed conference (ICCTRDA-2025, Vietnam).
+I build production-grade AI systems and full-stack applications — not just side projects, but things that are actually deployed and used. Currently in my final year at KIIT, I've shipped two end-to-end platforms using RAG pipelines, FastAPI, Docker, etc. and presented AI research at an international peer-reviewed conference (ICCTRDA-2025, Vietnam).
 
 I care about clean architecture, real-world constraints, and systems that don't break in production.
 
